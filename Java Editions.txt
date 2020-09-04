@@ -1,0 +1,11 @@
+Java is used in such a broad spectrum of applications that it has 3 editions
+
+1. Java Enterprise Edition :
+		It is used for developing large scaled networking and web based applications.
+
+2. Java Micro Edition :
+		It is used for developing applications for resource constrained embedded devices
+		 such as smarwatches,smart meters etc.
+
+3.Java Standard Edition :
+		It contains the capabilities needed to develop desktop and server applications.
