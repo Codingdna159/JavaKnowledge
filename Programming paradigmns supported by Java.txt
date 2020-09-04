@@ -1,0 +1,5 @@
+1. Procedural programming
+
+2. Object oriented programming
+
+3. Generic programming
