@@ -1,0 +1,27 @@
+1. Bits:
+	The smallest data item in computer can assume a value of 0 or 1.
+
+2. Characters:
+	Digits,Letters and special symbols are known as characters.The computer's 
+	character set is the set of all characters used to write program and 
+	represent data items. Java uses Unicode characters that are composed 
+	of one,two or 4 Bytes. (ASCII: American Standard Code for Information 
+	Interchange is subset of Unicode that represent popular letters,digits 
+	and special characters.
+
+3. Fields:
+	Just as Characters are composed of Bits, Fields are composed of Characters 
+	or Bytes. A Field is a group of Characters or Bytes that conveys a meaning.
+	for eg a peron's name,age etc.
+
+4. Record:
+	Several related Fields can be used to compose a record(implemented as a class
+	in java). for example a record might consist of an employee's id,name,PayAmount,
+	Marital Status etc.
+
+5. Files:
+	A File is a group of related Records.
+
+6. Database:
+	A Database is a collection of data organized for easy access and manipulation. The
+	most popular model is Relational database in which data is stored in simple tables.

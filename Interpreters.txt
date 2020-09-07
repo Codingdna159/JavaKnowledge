@@ -1,0 +1,5 @@
+Compiling a High level language program directly into Machine language can take a
+considerable amount of time.Interpreter programs were developed to execute high 
+level programs directly avoiding the delay of compilation although they run 
+slower than compiled programs.Java uses a clever performance-tuned mixture of 
+compilation and interpretation to run programs.

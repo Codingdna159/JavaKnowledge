@@ -1,0 +1,28 @@
+Programmers write instructions in various Programming languages some are
+directly understand by computers and some require intermediate translation
+steps. Hundreds of such languages are in use today. These are divided into 
+3 general categories:
+
+1. Machine languages:
+	Any computer can directly understand only its own machine language,
+	defined by it's hardware design. Machine languages generally consist 
+	of strings of numbers(0s and 1's)that instruct computers to perform 
+	their most elementary operation one at a time.Machine languages are 
+	machine dependent.
+
+2. Assembly Language:
+	Programming in Machine Language was too slow and tedious for most 
+	programmers So instead they start using English like abbreviations
+	to represent elementary operations. These abbreviations are formed 
+	on the basis of assembly language. Translator programs assemblers 
+	are developed to convert early assembly language programs to 
+	machine language at computer speeds.
+
+3. High-Level Languages:
+	With the advent of assembly language computer usage increased rapidly
+	but still in order to perform simple tasks programmers had to write a
+	lot of instructions. To speed up the programming process high level 
+	languages were developed which can accompalish substantial tasks in
+	single statement. Translator programs called Compilers convert high 
+	level programs into machine language. 
+	
