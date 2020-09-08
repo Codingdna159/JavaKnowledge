@@ -1,0 +1,2 @@
+Agile Software Development is a set of methodologies that try to 
+get software implemented faster using fewer resources.

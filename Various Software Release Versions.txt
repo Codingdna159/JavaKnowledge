@@ -1,0 +1,23 @@
+Alpha:
+	Alpha Software is the earliest release of a software product that's still under active development.
+Alpha versions are often buggy, incomplete, and unstable and are released to a relatively small number of 
+developers for testing new features, getting early feedback etc. Alpha software is also called early access 
+software.
+
+Beta:
+	Beta versions are released to a larger number of developers later in the development process after 
+most major bugs have been fixed and new features are nearly complete.Beta software is more stable but still
+subject to change.
+
+Release Candidates:
+	Release Candidates are generally feature complete, bug free and ready for use by the community which 
+provides a diverse testing environment. The software is used on different systems with varying constraints and 
+a variety of purposes.
+
+Final Release:
+	Any bugs that appear in the Release candidate are corrected and eventually the final product is released 
+to the general public. Software companies often distribute incremental updates over the internet.
+
+Continuous beta:
+	Software that is developed using this approach usually does not have version numbers. It's hosted in the 
+cloud and is constantly evolving so that users always have the latest version.

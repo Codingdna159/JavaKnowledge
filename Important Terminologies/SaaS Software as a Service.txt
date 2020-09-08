@@ -1,0 +1,9 @@
+Software has generally been viewed as a product, most software still is offered this way. If one want to
+run an application, he can buy software package from software vendor often a CD,DVD or a web download.
+Then install it on to the computer and run as needed. As new versions appear he need to upgrade software 
+at considerable cost in time and money. This process can become cumbersome.
+
+With Software as a Servive(SaaS) the software runs on servers elsewhere on the internet. When the server is 
+updated, all clients worldwide see the new capabilities.No local installation is needed. You access the 
+service through a browser and browsers are quite portable . So you can run the same applications on a wide 
+variety of computers from anywhere in the world.

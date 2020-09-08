@@ -1,0 +1,19 @@
+VM(Virtual Machine):
+	A Virtual Machine is a software application that simulates 
+	a computer but hides the underlying Operating system and 
+	Hardware from the programs that interact with it. If the same 
+	Virtual machine is implemented on many computer platforms,
+	applications written for that type of VM can be used on all 
+	those platforms.
+
+JVM(Java Virtual Machine):
+	a part of JDK and the foundation of java platform executes 
+	Bytecode. It is one of the most widely used virtual machines.
+
+In early java versions JVM was simply a Java Bytecode interpreter.Most programs would execute slowly 
+because JVM would interpret and execute one bytecode at a time.
+But today's JVM typically execute bytecodes using a combination of interpretation and just in time compilation.
+In this process JVM analyzes the bytecode as they are interpreted, searching for Hotspots(bytecodes that execute
+frequently).For these parts JIT compiler translates the bytecode into computer's Machine Language.When JVM 
+encounters these compiled parts again, the faster machine language code executes.
+	

@@ -1,0 +1,3 @@
+A new class of objects can be created conveniently by Inheritance.
+The new class starts with the characterstics of an existing class 
+possibly customizing them and adding new characterstics of its own.

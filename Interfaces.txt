@@ -1,0 +1,2 @@
+Interfaces are collections of related methods that typically 
+enables you to tell objects what to do but not how to do it.

@@ -1,0 +1,2 @@
+Design Patterns are proven architectures for constructing 
+flexible and maintainable object oriented software.

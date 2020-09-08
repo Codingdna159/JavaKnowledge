@@ -1,0 +1,27 @@
+Normally there are 5 phases
+
+Edit -> Compile -> Load -> Verify -> Execute
+
+Phase 1: Creating a program
+	This phase consist of writing the java code using a editor program
+	and saving it onto the hard disk with .java extension.
+
+Phase 2: Compiling java program to Bytecode
+	In this phase a .class file is created which consists of Bytecode
+	which is platform independent. For compiling the command to be used 
+	is (javac filename.java).
+
+Now use command (java filename)
+
+Phase 3: Loading a program into Memory
+	In this phase JVM's class loader takes the.class file containing the 
+	program's Bytecode and transfers them to primary memory. It also loads
+	any of the .class files provided by java that your program uses.
+
+Phase 4: Bytecode Verification
+	In this phase Bytecode Verifier examines their bytecodes to ensure that
+	they are valid and do not voilte java's security restrictions
+
+Phase 5: Execution
+	In this phase JVM executes the bytecodes to perform the program's 
+	specified actions.

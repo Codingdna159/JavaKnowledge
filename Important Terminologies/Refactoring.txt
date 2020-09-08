@@ -1,0 +1,4 @@
+Refactoring involves reworking programs to make them clearer 
+and easier to maintain while preserving their correctness 
+and functionality.It's widely employed with Agile development
+methodologies.

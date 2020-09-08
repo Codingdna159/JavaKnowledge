@@ -1,0 +1,7 @@
+Classes encapsulate such that encase their attributes and methods.
+A class's attributes and methods are intimately related.
+
+Objects may communicate with one another but they are not allowed to 
+see how other objects are implemented.Implementation details can 
+be hidden within the objects themselves.This Information Hiding is 
+crucial for hood software engineering.
